@@ -1,0 +1,296 @@
+[
+  {
+    "id": "learning",
+    "code": "W01",
+    "module": "02",
+    "eng": "AI for Learning & Research",
+    "vn": "Tư duy số, sáng tạo & ứng dụng AI trong học tập và nghiên cứu",
+    "hours": "6 giờ",
+    "stage": "Đề cương hiện có",
+    "a": "IMPACT",
+    "audience": "Sinh viên · Giáo viên · Người học đa ngành",
+    "tools": "Gemini · NotebookLM",
+    "short": "Biến AI thành trợ lý tư duy và nghiên cứu: lên ý tưởng, đọc nguồn, kiểm chứng và xây dựng đề cương.",
+    "overview": "Trải nghiệm sử dụng Gemini để phát triển ý tưởng và NotebookLM để xây kho tri thức có trích dẫn. Người học áp dụng IMPACT để xác định mục tiêu, lập bản đồ nguồn, thực hiện và kiểm chứng kết quả.",
+    "topics": [
+      "Tư duy số, đạo đức AI, liêm chính học thuật và IMPACT.",
+      "Gemini: kỹ thuật prompt 5 thành phần, brainstorming, phản biện, đề cương và storyboard.",
+      "NotebookLM: xây dựng nguồn, tóm tắt, glossary, trích dẫn và học liệu ôn tập.",
+      "Capstone kết hợp Gemini → NotebookLM → Gemini trên một đề tài thực tế."
+    ],
+    "agenda": [
+      [
+        "00–60",
+        "Tư duy số & IMPACT",
+        "Lý thuyết + tình huống",
+        "Bức tranh AI trong học tập; đạo đức, an toàn dữ liệu, quyền tác giả; phân tích tình huống."
+      ],
+      [
+        "60–180",
+        "Gemini: Brainstorm & Prompt",
+        "Demo + thực hành",
+        "Prompt 5 thành phần, phát triển ý tưởng, cải tiến prompt và tạo dàn ý/thuyết trình; trong đó khoảng 40 phút thực hành."
+      ],
+      [
+        "180–300",
+        "NotebookLM: Research Assistant",
+        "Demo + thực hành",
+        "Tạo kho tài liệu, hỏi đáp có trích dẫn, đối chiếu nguồn và tạo tài liệu ôn tập; trong đó khoảng 50 phút thực hành."
+      ],
+      [
+        "300–360",
+        "Capstone & Presentation",
+        "Dự án + trình bày",
+        "Hoàn thiện đề cương, bảng dẫn chứng và bộ prompt; trình bày, nhận phản hồi (20 phút đánh giá)."
+      ]
+    ],
+    "output": "01 đề cương nghiên cứu có nguồn kiểm chứng + 01 bộ prompt cải tiến; có thể kèm bộ câu hỏi ôn tập.",
+    "cta": "Học sâu từ nghiên cứu tới sản phẩm, dashboard, workflow và portfolio trong lộ trình Learning Workflows 5 module; người đi làm có thể theo Business Workflows 6 module.",
+    "href": "workshop-learning.html"
+  },
+  {
+    "id": "creative",
+    "code": "W02",
+    "module": "03",
+    "eng": "AI Creative Content & Personal Branding",
+    "vn": "Sáng tạo nội dung số và xây dựng thương hiệu bằng AI",
+    "hours": "3 giờ",
+    "stage": "Agenda đề xuất",
+    "a": "IMPACT + CREATE",
+    "audience": "Sinh viên · Giáo viên · Marketing · Truyền thông",
+    "tools": "AI Image · Video · Audio · Slide",
+    "short": "Từ một brief tới mini-campaign: nội dung, hình ảnh và câu chuyện nhất quán với thương hiệu.",
+    "overview": "Tư duy IMPACT để nắm rõ mục tiêu và khán giả; dùng CREATE để thiết kế nguồn lực, sáng tạo đa định dạng, kiểm tra chất lượng và quyền sử dụng.",
+    "topics": [
+      "IMPACT: mục tiêu truyền thông, chân dung khách hàng, thông điệp và KPI.",
+      "CREATE: chiến lược nội dung, storyboard, prompt và workflow sáng tạo.",
+      "Thực hành bài viết + hình ảnh/infographic + slide hoặc clip ngắn.",
+      "Kiểm chứng thông điệp, bản quyền, hình ảnh/giọng nói và bước duyệt xuất bản."
+    ],
+    "agenda": [
+      [
+        "00–30",
+        "Brief + IMPACT",
+        "Lý thuyết",
+        "Mục tiêu, chân dung, insight, brand voice; phân tích brief."
+      ],
+      [
+        "30–60",
+        "Creative Brief",
+        "Thực hành",
+        "Tạo brief, thông điệp chủ đạo và 3 ý tưởng visual."
+      ],
+      [
+        "60–90",
+        "CREATE & Generative Media",
+        "Lý thuyết",
+        "Storyboarding, prompt ảnh/video/audio/slide và quyền sử dụng."
+      ],
+      [
+        "90–120",
+        "Produce",
+        "Thực hành",
+        "Tạo một visual và một nội dung hỗ trợ từ brief."
+      ],
+      [
+        "120–150",
+        "Review & Publish",
+        "Lý thuyết",
+        "Kiểm chứng nội dung, bản quyền, nhận diện thương hiệu và phê duyệt."
+      ],
+      [
+        "150–180",
+        "Mini-campaign",
+        "Thực hành",
+        "Hoàn thiện mẫu, peer review và trình bày pitch 1 phút."
+      ]
+    ],
+    "output": "01 creative brief + 01 đoạn copy + 01 hình/infographic + 01 slide/clip (tùy tài khoản) + checklist.",
+    "cta": "Tiếp tục Module 3 để phát triển năng lực tạo nội dung và truyền thông thương hiệu một cách hệ thống.",
+    "href": "workshop-creative.html"
+  },
+  {
+    "id": "data",
+    "code": "W03",
+    "module": "04",
+    "eng": "AI Data Insights & Workflow Automation",
+    "vn": "Phân tích dữ liệu và tự động hóa quy trình bằng AI",
+    "hours": "3 giờ",
+    "stage": "Agenda đề xuất",
+    "a": "IMPACT + CREATE",
+    "audience": "Người đi làm · Sinh viên · HR / L&D",
+    "tools": "Power BI · AI Analytics · n8n",
+    "short": "Biến dữ liệu thành insight, KPI và thiết kế workflow có AI hỗ trợ, an toàn và đo được hiệu quả.",
+    "overview": "Dùng IMPACT để xác định vấn đề, dữ liệu và chỉ số; dùng CREATE để thiết kế luồng tự động hóa có validation, approval, log và kiểm soát chi phí.",
+    "topics": [
+      "IMPACT: bài toán vận hành, nguồn dữ liệu, KPI, luồng xử lý và rủi ro.",
+      "AI Analytics: xu hướng, KPI, kiểm chứng insight và giới hạn suy luận.",
+      "CREATE: trigger → validate → AI → approval → action → log.",
+      "Giới hạn quyền Agent, credentials, token, retry và trách nhiệm phê duyệt."
+    ],
+    "agenda": [
+      [
+        "00–30",
+        "Data + IMPACT",
+        "Lý thuyết",
+        "KPI, nguồn dữ liệu, vấn đề vận hành, giới hạn AI Analytics."
+      ],
+      [
+        "30–60",
+        "KPI & Insight",
+        "Thực hành",
+        "Phân tích dữ liệu mẫu và kiểm chứng insight."
+      ],
+      [
+        "60–90",
+        "Workflow + CREATE",
+        "Lý thuyết",
+        "n8n: trigger, validation, AI node, approval, retry, log."
+      ],
+      [
+        "90–120",
+        "Map Workflow",
+        "Thực hành",
+        "Thiết kế sơ đồ hoặc demo sandbox chỉ đọc, nhận diện node rủi ro."
+      ],
+      [
+        "120–150",
+        "Risk & ROI",
+        "Lý thuyết",
+        "Bảo mật API, quyền Agent, độ tin cậy KPI, chi phí, rollback."
+      ],
+      [
+        "150–180",
+        "Demo & Pitch",
+        "Thực hành",
+        "Trình bày dashboard/insight và workflow đã thiết kế, nêu KPI và rủi ro."
+      ]
+    ],
+    "output": "01 KPI/Insight Card hoặc dashboard mẫu + 01 sơ đồ workflow + 01 checklist quyền/phê duyệt.",
+    "cta": "Nâng cấp lên Module 4 với Data Analytics và Automation chuyên sâu; doanh nghiệp tiếp tục Module 6 để kiểm soát bảo mật và hiệu suất.",
+    "href": "workshop-data.html"
+  },
+  {
+    "id": "vibe",
+    "code": "W04",
+    "module": "05",
+    "eng": "AI Vibe Coding & Smart Applications",
+    "vn": "Xây dựng website, ứng dụng và chatbot thông minh bằng AI",
+    "hours": "3 giờ",
+    "stage": "Agenda đề xuất",
+    "a": "IMPACT + CREATE",
+    "audience": "Sinh viên · Giáo viên · Người đi làm · Startup",
+    "tools": "Claude · Coding Assistant",
+    "short": "Tạo prototype ứng dụng/web/chatbot từ ý tưởng và biết đâu là ranh giới giữa demo và production.",
+    "overview": "IMPACT giúp khai phá vấn đề và yêu cầu người dùng; CREATE giúp thiết kế kiến trúc, sinh mã có kiểm soát, kiểm thử và chuẩn bị triển khai.",
+    "topics": [
+      "IMPACT: use case, persona, hành trình người dùng, dữ liệu và chức năng.",
+      "CREATE: frontend/backend, architecture, prompt phát triển và chất lượng.",
+      "Tạo giao diện web hoặc chatbot nguyên mẫu bằng dữ liệu giả lập.",
+      "Bảo vệ source code, secrets, quyền, kiểm thử và staging."
+    ],
+    "agenda": [
+      [
+        "00–30",
+        "Discover + IMPACT",
+        "Lý thuyết",
+        "Use case, user journey, yêu cầu, dữ liệu và phạm vi prototype."
+      ],
+      [
+        "30–60",
+        "App Blueprint",
+        "Thực hành",
+        "Phác thảo giao diện, chức năng chính và tiêu chí thành công."
+      ],
+      [
+        "60–90",
+        "CREATE + AI Coding",
+        "Lý thuyết",
+        "Prompt coding, kiến trúc, agent và giới hạn hành động."
+      ],
+      [
+        "90–120",
+        "Prototype",
+        "Thực hành",
+        "Tạo website hoặc chatbot mẫu bằng dữ liệu giả."
+      ],
+      [
+        "120–150",
+        "Quality & Security",
+        "Lý thuyết",
+        "Auth, authorization, secrets, code review, test, license và release."
+      ],
+      [
+        "150–180",
+        "Test & Demo",
+        "Thực hành",
+        "Kiểm thử, sửa lỗi và pitch prototype."
+      ]
+    ],
+    "output": "01 App Blueprint + 01 prototype website/chatbot + 01 checklist kiểm thử cơ bản.",
+    "cta": "Học sâu Module 5 (AI-Powered Web Development & AI Chatbot Development), tiến tới phần triển khai và bảo mật của Business Workflows.",
+    "href": "workshop-vibe.html"
+  },
+  {
+    "id": "security",
+    "code": "W05",
+    "module": "06.1",
+    "eng": "AI Security & Governance",
+    "vn": "Quản trị và Bảo mật AI trong Doanh nghiệp",
+    "hours": "3 giờ",
+    "stage": "Agenda đã xây dựng",
+    "a": "IMPACT + CREATE",
+    "audience": "CEO / COO / Heads · HR / L&D · End-users",
+    "tools": "ChatGPT · NotebookLM · Multimedia · n8n · Power BI Agent · Claude",
+    "short": "Nhận diện rủi ro, quản trị quyền và dữ liệu, quyết định khi nào AI được phép triển khai.",
+    "overview": "Workshop ứng dụng pattern 7 bước dùng AI có trách nhiệm, IMPACT để phân tích rủi ro và CREATE để thiết kế các kiểm soát. Tập trung vào tình huống cá nhân lẫn doanh nghiệp.",
+    "topics": [
+      "Phân biệt Governance (được phép dùng AI thế nào) và Security (bảo vệ AI/dữ liệu ra sao).",
+      "Pattern 7 bước: Use Case → Data → Access → Policy → Validate → Monitor → Improve.",
+      "IMPACT: bản đồ dữ liệu, hệ thống, rủi ro, tác động và trách nhiệm.",
+      "CREATE: kiểm soát, human approval, bằng chứng, giám sát và kế hoạch triển khai.",
+      "Áp dụng cho 6 nhóm công cụ AI thường ngày, từ hỏi đáp đến AI Agent và Vibe Coding."
+    ],
+    "agenda": [
+      [
+        "00–30",
+        "Fundamentals",
+        "Lý thuyết",
+        "Governance vs Security, rủi ro sáu nhóm công cụ, phân loại dữ liệu, vai trò."
+      ],
+      [
+        "30–60",
+        "Personal AI Safety",
+        "Thực hành",
+        "Rà soát một công cụ AI; ghi 3 rủi ro và 3 hành động cải thiện."
+      ],
+      [
+        "60–90",
+        "Enterprise + IMPACT",
+        "Lý thuyết",
+        "Pattern 7 bước, phân quyền, least privilege, human approval, rủi ro Agent."
+      ],
+      [
+        "90–120",
+        "AI Risk Assessment",
+        "Thực hành",
+        "Lập use case, data flow, risk card và biện pháp giảm thiểu."
+      ],
+      [
+        "120–150",
+        "CREATE & Governance",
+        "Lý thuyết",
+        "AI Use Policy, chất lượng đầu ra, Trust, giám sát và điều kiện triển khai."
+      ],
+      [
+        "150–180",
+        "Governance Action Plan",
+        "Thực hành",
+        "Đề xuất kiểm soát, owner, bằng chứng và quyết định Go / Conditional Go / No-Go."
+      ]
+    ],
+    "output": "Personal AI Safety Checklist + AI Risk Assessment Card + Enterprise AI Governance Action Plan.",
+    "cta": "Học tiếp Module 6.2 AI Performance Optimization và Business Workflows đủ 6 module để mở rộng AI an toàn, hiệu quả.",
+    "href": "workshop-security.html"
+  }
+]
